@@ -1,5 +1,19 @@
-<p>Piano
+Piano
 
 An interactive piano web application built using HTML, CSS, and JavaScript.
 
-Piano Screenshot<p>
+Piano Screenshot
+
+Demo
+
+You can try out the Piano demo here.
+
+Features
+
+    A fully functional piano with multiple octaves.
+
+    Realistic piano sound effects.
+
+    Responsive design for various screen sizes.
+    
+    Support for both mouse and keyboard input.
