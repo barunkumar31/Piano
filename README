@@ -4,9 +4,7 @@ An interactive piano web application built using HTML, CSS, and JavaScript.
 
 Piano Screenshot
 
-Demo
 
-You can try out the <a href="index.html"> Piano demo here.</a>
 
 Features
 
@@ -15,10 +13,9 @@ Features
     Realistic piano sound effects.
 
     Responsive design for various screen sizes.
-<<<<<<< HEAD
 
     Support for both mouse and keyboard input.
-=======
+
     
     Support for both mouse and keyboard input.
->>>>>>> 10dca5978f1875af5c8d3a88263acae7656d189d
+
